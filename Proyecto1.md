@@ -2,3 +2,4 @@
 <img width="1024" height="767" alt="Captura de pantalla 2026-10-22 093604" src="https://github.com/user-attachments/assets/bdca311e-cca1-40db-af23-5e2dbd91a450" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5bb5ab93-15bf-4e0b-a158-407550133fb7" />
 <img width="1919" height="1079" alt="Captura de pantalla 2026-10-22 140923" src="https://github.com/user-attachments/assets/cc9ef7c0-e82e-4e41-bfa2-a333ae5963d3" />
+<img width="947" height="351" alt="image" src="https://github.com/user-attachments/assets/83c213e2-4e68-453b-9730-1a1a54f64a32" />
