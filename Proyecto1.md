@@ -4,4 +4,3 @@
 <img width="1919" height="1079" alt="Captura de pantalla 2026-10-22 140923" src="https://github.com/user-attachments/assets/cc9ef7c0-e82e-4e41-bfa2-a333ae5963d3" />
 <img width="1685" height="418" alt="image" src="https://github.com/user-attachments/assets/8c470568-e3ec-45fd-b5d9-647f62fea9cc" />
 <img width="947" height="351" alt="image" src="https://github.com/user-attachments/assets/83c213e2-4e68-453b-9730-1a1a54f64a32" />
-<img width="1123" height="626" alt="Captura de pantalla 2026-11-05 102302" src="https://github.com/user-attachments/assets/2c7e7a29-3ad3-41dc-97e8-7f70779162a6" />
